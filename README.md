@@ -1,15 +1,12 @@
 Student Performance Analysis Project
 
-This project is a simple data analysis study using Python and pandas.
+This project analyzes student performance using Python.
 
-It focuses on:
-- Calculating average scores
-- Identifying highest and lowest values
-- Filtering high-performing students
-- Basic data manipulation techniques
+Features:
+- Data manipulation with pandas
+- Average score calculations
+- Identification of top-performing students
+- Data filtering
+- Data visualization using matplotlib
 
-Tools used:
-- Python
-- pandas
-
-This project demonstrates my initial steps in data analysis and my interest in developing skills in data science and analytics.
+This project demonstrates my ability to handle data, perform basic analysis, and visualize results.
